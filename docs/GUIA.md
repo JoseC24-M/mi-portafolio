@@ -47,3 +47,7 @@ git log --oneline --graph --all
 git merge color-azul
 git tag -a v1.0 -m "Version estable del laboratorio 02"
 ```
+
+## Resultado
+
+El proyecto finaliza con el conflicto de estilos resuelto y la version estable marcada con `v1.0`.
